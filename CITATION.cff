@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it as below."
+type: software
+title: "Replication Package: Task Performance and Unaided Programming Performance Divergence among Programming Novices under Generative AI Conditions"
+abstract: >-
+  De-identified dataset (N = 113 CS1 programming novices) and the complete
+  analysis pipeline reproducing all statistics reported in the associated
+  manuscript, including Pearson correlations, HC3-robust regressions,
+  four-quadrant classification, nested logistic-regression prediction models
+  under a leakage-free repeated cross-validation protocol, and
+  leave-one-class-out cohort validation.
+authors:
+  - family-names: Zeng
+    given-names: Haiping
+    affiliation: "Guangxi Science and Technology Normal University"
+    orcid: ""
+contact:
+  - family-names: Zeng
+    given-names: Haiping
+    email: cenghaiping@gxstnu.edu.cn
+    affiliation: "Guangxi Science and Technology Normal University"
+license: MIT
+license-url: "https://opensource.org/license/mit"
+keywords:
+  - generative artificial intelligence
+  - CS1 programming education
+  - assessment validity
+  - unaided programming performance
+  - learning analytics
+  - cognitive offloading
+  - educational data mining
+repository-code: "https://github.com/zhp1123/genai-programming-performance-divergence-"

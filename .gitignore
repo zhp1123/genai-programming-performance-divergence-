@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# --- Private archive: contains real class identifiers. NEVER commit. ---
+data_archive/
+**/raw_analysis_data_ORIGINAL_fidelity.*
+**/analysis_microdata_ORIGINAL_fidelity.*
+*_ORIGINAL_fidelity.*
+
+# --- Internal working guides (author's own scaffolding, not part of the package) ---
+GITHUB_REPO_INFO.md
+GITHUB_UPLOAD_GUIDE.md
+ZENODO_DOI_GUIDE.md
