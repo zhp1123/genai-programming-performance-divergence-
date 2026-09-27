@@ -1,0 +1,4 @@
+﻿held_out_class,n,threshold,auc,sensitivity,specificity,balanced_accuracy,brier
+Class A,39,62.0,0.563,0.789,0.3,0.545,0.297
+Class B,38,60.0,0.753,0.938,0.682,0.81,0.231
+Class C,36,62.0,0.765,0.158,1.0,0.579,0.258

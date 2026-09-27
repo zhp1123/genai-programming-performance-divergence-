@@ -1,0 +1,4 @@
+﻿model,threshold_rule,auc,auc_sd,sensitivity,specificity,balanced_accuracy,brier,n_folds_used
+M1,median,0.7,0.091,0.622,0.785,0.703,0.221,100
+M2,median,0.689,0.091,0.616,0.774,0.695,0.225,100
+M3,median,0.676,0.095,0.599,0.717,0.658,0.233,100
